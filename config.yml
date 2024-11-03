@@ -67,23 +67,17 @@ params:
         - name: CV
           url: CV_S.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:d.patsatzis@ssmeridionale.it
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.gr/citations?user=I9NDEfcAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/patsatzisdim
+        - name: linkedin
+          url: https://www.linkedin.com/in/dimitris-patsatzis-ph-d-011a9219a
 
     assets:
         disableScrollBarStyle: true
@@ -91,7 +85,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Dimitris Patsatzis"
       icon: favicon.ico
       iconHeight: 18
 
