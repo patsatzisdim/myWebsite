@@ -36,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: [courses","papers"]
+    MainSections: ["courses","papers"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -65,7 +65,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_S.pdf
         - name: Email
           url: mailto:moritz.maria.von.igelfeld@gmail.com
         - name: Zoom
